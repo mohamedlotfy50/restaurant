@@ -1,16 +1,8 @@
-# Restaurant
-
-## this restaurant allow user to reserve and the meal for specific date
-
-## file sturcture :
-* css include all the css files
-* images include all the images for website
-* js include all the javascript files
-* php include all the php and backend files
 * ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [File structure](#file-structure)
 
 ## General info
 This project is restaurant reservation.
@@ -28,3 +20,9 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+## File structure 
+* css include all the css files
+* images include all the images for website
+* js include all the javascript files
+* php include all the php and backend files
